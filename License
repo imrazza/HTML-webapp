@@ -1,0 +1,13 @@
+
+---
+
+### How to Organize Your Repo
+1. Create a new GitHub repository.
+2. Push your project to GitHub:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/your-username/simple-web-app.git
+   git push -u origin main
